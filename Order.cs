@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Day_2
 {
-    internal class Order
+    public class Order
     {
+
+
+            public void get()
+            {
+                Console.WriteLine("user:ahmed , orderid:123");
+            }
+        }
     }
-}
+
