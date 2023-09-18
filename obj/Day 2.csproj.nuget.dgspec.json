@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iti\\net track\\.net track\\adv c#\\Lab 2\\Day 2\\Day 2\\Day 2.csproj": {}
+    "C:\\Users\\nnora\\OneDrive\\Desktop\\full stack .net\\adv-c#\\lab2\\D2Repo\\Day 2.csproj": {}
   },
   "projects": {
-    "D:\\iti\\net track\\.net track\\adv c#\\Lab 2\\Day 2\\Day 2\\Day 2.csproj": {
+    "C:\\Users\\nnora\\OneDrive\\Desktop\\full stack .net\\adv-c#\\lab2\\D2Repo\\Day 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iti\\net track\\.net track\\adv c#\\Lab 2\\Day 2\\Day 2\\Day 2.csproj",
+        "projectUniqueName": "C:\\Users\\nnora\\OneDrive\\Desktop\\full stack .net\\adv-c#\\lab2\\D2Repo\\Day 2.csproj",
         "projectName": "Day 2",
-        "projectPath": "D:\\iti\\net track\\.net track\\adv c#\\Lab 2\\Day 2\\Day 2\\Day 2.csproj",
-        "packagesPath": "C:\\Users\\Mega Store\\.nuget\\packages\\",
-        "outputPath": "D:\\iti\\net track\\.net track\\adv c#\\Lab 2\\Day 2\\Day 2\\obj\\",
+        "projectPath": "C:\\Users\\nnora\\OneDrive\\Desktop\\full stack .net\\adv-c#\\lab2\\D2Repo\\Day 2.csproj",
+        "packagesPath": "C:\\Users\\nnora\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nnora\\OneDrive\\Desktop\\full stack .net\\adv-c#\\lab2\\D2Repo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mega Store\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nnora\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
